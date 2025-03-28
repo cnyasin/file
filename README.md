@@ -8,4 +8,4 @@
     - `/gh`：GitHub；
     - `/cnyasin/file`：GitHub用户名/仓库名；
     - `/@main`：main分支；
-  - 最终的CDN访问链接： “https://cdn.jsdelivr.net/gh/cnyasin/file@main/favicon.ico” ；
+  - 最终的CDN访问链接： `https://cdn.jsdelivr.net/gh/cnyasin/file@main/favicon.ico` ；
